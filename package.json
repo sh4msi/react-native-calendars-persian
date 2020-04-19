@@ -1,6 +1,6 @@
 {
   "name": "react-native-calendars-persian",
-  "version": "1.21.0",
+  "version": "1.22.0",
   "main": "src/index.js",
   "description": "React Native Calendar Components + Jalali (Persian) Calendar Support",
   "scripts": {
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hadimostafapour/react-native-calendars-persian"
+    "url": "git+https://github.com/sh4msi/react-native-calendars-persian"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "author": "Hadi Mostafapour",
+  "author": "Hadi Mostafapour / Saeed Shamsi",
   "license": "MIT",
   "dependencies": {
     "lodash.get": "^4.4.2",
@@ -22,7 +22,7 @@
     "moment": "^2.24.0",
     "moment-jalaali": "^0.8.3",
     "prop-types": "^15.7.2",
-    "xdate": "^0.8.2"
+    "xdate": "^0.9.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
